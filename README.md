@@ -8,6 +8,9 @@ This is example to show different parts of the Git repository and various comman
 
 ## Purpose
 
+ajghdjkashjklhkj bjkahdjklhasjkgb jkahjk bjkshfjk ghsdjkgf jksdhkjd gaihjk
+
 ## Deployment
 
+This is a simple web project, deployment can be on any web server.
 ## How To Contribute
